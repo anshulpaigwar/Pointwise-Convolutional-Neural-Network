@@ -1,0 +1,9 @@
+4wd / car /ute /van 21 + 88 +16+35
+building  20
+pedestrian  152
+traffic_lights / traffic_sign 47 + 51
+tree 34
+trunk 55
+truck 12
+pole / pillar /post 20 + 21 + 8
+bus 16
