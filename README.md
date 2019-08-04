@@ -1,4 +1,4 @@
-## Introduction
+## PyTorch implementation of Pointwise Convolutional Neural Networks
 This is unofficial PyTorch implementation of [Pointwise Convolutional Neural Networks](https://arxiv.org/pdf/1712.05245.pdf) in CVPR 2018.
 Official project page for this work can be found [here](http://www.saikit.org/projects/sceneNN/home/cvpr18/index.html).
 
